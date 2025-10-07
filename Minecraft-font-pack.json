@@ -1,7 +1,7 @@
 {
   "name": "Minecraft Font Pack",
   "description": "Custom font package for Minecraft TTF hosted on GitHub.",
-  "spec": 1, 
+  "spec": 2, 
   "fonts": [
     {
       "name": "MinecraftCustom",
