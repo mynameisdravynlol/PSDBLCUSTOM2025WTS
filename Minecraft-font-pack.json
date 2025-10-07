@@ -5,9 +5,7 @@
   "fonts": [
     {
       "name": "MinecraftCustom",
-      "src": [
-        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Minecraft.ttf"
-      ],
+      "src": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Minecraft.ttf"
       "family": "MinecraftCustom",
       "weight": 400
     }
