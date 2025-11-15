@@ -1,0 +1,14 @@
+{
+  "id": "minecraft-fuente-personalizada",
+  "fonts": {
+    "Minecraft": {
+      "url": "https://github.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/blob/main/Minecraft.ttf",
+      "format": "truetype"
+    }
+  },
+  "styles": {
+    "*": {
+      "font-family": "'Minecraft', sans-serif !important"
+    }
+  }
+}
