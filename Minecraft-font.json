@@ -2,7 +2,7 @@
   "id": "minecraft-fuente-personalizada",
   "fonts": {
     "Minecraft": {
-      "url": "https://github.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/blob/main/Minecraft.ttf",
+      "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Minecraft.ttf",
       "format": "truetype"
     }
   },
