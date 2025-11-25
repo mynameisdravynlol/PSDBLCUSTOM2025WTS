@@ -275,11 +275,7 @@
   "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
    },
-  
-  "background": {
-      "alpha": 5,
-      "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/5bae0b31b0f5eead13a3eb23894df7087b7531eb/Reaching%20the%20stars.jpg"
-  },
+
   "plus":{
      "version":"0",
      "iconpack":"rosiecord-plumpy",
