@@ -1,6 +1,6 @@
 {
-  "name": "Discord theme",
-  "description": "Tema para mi (Igual no tengo permiso para publicarlo)",
+  "name": "Tema de Discord",
+  "description": "Tema para mi (Igual no tengo permiso para subirlo)",
   "authors": [
     {
       "name": "Roux",
@@ -275,7 +275,11 @@
   "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
    },
-
+  
+  "background": {
+      "alpha": 5,
+      "url": "https://github.com/VodkaXMartini/images/blob/main/Orchid%20love.jpg?raw=true"
+  },
   "plus":{
      "version":"0",
      "iconpack":"rosiecord-plumpy",
