@@ -1,6 +1,6 @@
 {
-  "name": "Tema de Discord",
-  "description": "Tema para mi (Igual no tengo permiso para subirlo)",
+  "name": "Tema de Discord - Fondos Rotativos",
+  "description": "Tema con fondos que cambian automáticamente",
   "authors": [
     {
       "name": "Roux",
@@ -277,13 +277,22 @@
    },
   
   "background": {
-      "alpha": 5,
-      "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/The%20galaxy%20in%20your%20claws.jpg"
+      "alpha": 0.05,
+      "blur": 0,
+      "url": "random"
   },
   "plus":{
      "version":"0",
      "iconpack":"rosiecord-plumpy",
      "customOverlays": true,
+     "backgroundUrls": [
+        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/The%20galaxy%20in%20your%20claws.jpg",
+        "https://raw.githubusercontenr.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Zilla%20in%20the%20city.jpg",
+        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/You%20can't%20handle%20the%20size%20difference.jpg",
+        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Yawn.png",
+        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Reaching%20the%20stars.jpg",
+        "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Cats%20like%20pans.jpg"
+     ],
      "icons":{
         "AccessibilityIcon": "#a79ab3",
         "account": "#31748f",
