@@ -1,95 +1,76 @@
 {
-  "name": "Galaxy",
-  "description": "My first attempt at figuring out theme creation. Credits: Felix Svetloozerskiy",
-  "authors": [
-    {
-      "name": "Cookietsu",
-      "id": "628165423191293962"
-    },
-    {
-      "name": "Felix Svetloozerskiy",
-      "id": "354936587186077707"
-    }
-  ],
-  "spec": 2,
-  "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#6e44e5"
+    "name": "Tema personal uwu",
+    "description": "Tema personal, igual no tengo permiso de subirlos lol",
+	"authors": [
+      {
+         "name": "Yo :)",
+         "id": "1104499859203031140"
+      }
     ],
-    "HEADER_SECONDARY": [
-      "#6e44e5"
-    ],
-    "TEXT_NORMAL": [
-      "#D6D6D6"
-    ],
-    "TEXT_MUTED": [
-      "#10717c"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#158491"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#c5c118"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#6e44e5"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#3a3a3a"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#171717"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#04040e"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#08393F"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#04040e"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#04040e"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#464646"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#1f1a23"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#396165"
-    ],
-    "TEXT_LINK": [
-      "#396165"
-    ],
-    "KEYBOARD": [
-      "#04040e"
-    ]
-  },
-  "rawColors": {
-    "PRIMARY_800": "#04040e",
-    "PRIMARY_600": "#04040e"
-  },
+"semanticColors": {
+"CONTROL_BRAND_FOREGROUND": ["#B04545"],
+"CONTROL_BRAND_FOREGROUND_NEW": ["#B04545"],
+"REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["#B04545"],
+"TEXT_BRAND": ["#B04545"],
+"EXPRESSION_PICKER_BG": ["#111111"],
+"ANDROID_RIPPLE": ["#A6051A"],
+"BACKGROUND_ACCENT": ["#A6051A"],
+"BACKGROUND_MODIFIER_ACTIVE": ["#11111120"],
+"BG_BACKDROP": ["#11111160"],
+"BG_SURFACE_OVERLAY_TMP": ["#111111"],
+"BG_SURFACE_RAISED": ["#111111"],
+"CARD_PRIMARY_BG": ["#B04543"],
+"BACKGROUND_PRIMARY": ["#111111"],
+"BACKGROUND_SECONDARY": ["#222222"],
+"BORDER_FAINT": ["#B04542"],
+"BORDER_STRONG": ["#B04543"],
+"BORDER_SUBTLE": ["#FDFD96"],
+"BACKGROUND_MODIFIER_ACCENT": ["#B04545"],
+"BG_BASE_TERTIARY": ["#111111"],
+"BG_MOD_FAINT": ["#333344"],
+"BG_MOD_STRONG": ["#B04545"],
+"EMBED_BACKGROUND": ["#222233"],
+"CARD_PRIMARY_BG": ["#161617"],
+"CHANNEL_ICON": ["FFEB00"],
+"DIVIDER_SUBTLE": ["#B04545"],
+"EMBED_BACKGROUND": ["#161617"],
+"HEADER_SECONDARY": ["#FFFFFF"],
+"INTERACTIVE_ACTIVE": ["#FC9D9D"],
+"INTERACTIVE_NORMAL": ["#FFFFFF"],
+"INTERACTIVE_MUTED": ["#9999AA"],
+"TEXT_NORMAL": ["#FFFFFF"],
+"TEXT_PRIMARY": ["#FFFFFF"],
+"TEXT_LOW_CONTRAST": ["#BBBBBB"],
+"TEXT_MUTED": ["#BBBBBB"],
+"MESSAGE_REACTED_BACKGROUND": ["#11111140"],
+"TEXT_DANGER": ["#A6051A"],
+"THREAD_CHANNEL_SPINE": ["#FFFFFF"]
+},
+ "rawColors": {
+"BLUE_345": "FDFD96",
+"NEUTRAL_73": "111111",
+"NEUTRAL_78": "B04545",
+"BRAND_260": "FFFFFF",
+"BRAND_360": "FFFFFF20",
+"BRAND_500": "B04545",
+"BRAND_560": "A6051A",
+"NEUTRAL_76": "111111",
+"PRIMARY_645": "111111",
+"PRIMARY_500": "B04545",
+"PRIMARY_600": "111111",
+"PRIMARY_660": "111111",
+"PRIMARY_700": "111111",
+"PLUM_16": "111111",
+"PLUM_17": "111111",
+"PLUM_24": "333344"
+},
   "background": {
-    "blur": 0.3,
-    "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Black%20wolf.jpg",
-    "alpha": 0.7
-  }
+"blur": 1.0,
+"url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Black%20wolf.jpg",
+"alpha": 1.0
+  },
+"spec": 2,
+"plus": {"version": 0,
+"iconpack": "md3",
+"mentionLineColor": "#B04545"}
 }
