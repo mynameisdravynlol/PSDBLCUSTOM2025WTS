@@ -1,8 +1,9 @@
-// ==UserScript==
-// @name         Esto cambia tu fondo :0
-// @description  Cambia el fondo de los chats aleatoriamente
-// @author       Roux
-// ==/UserScript==
+/**
+ * @name FondoAleatorio
+ * @description Cambia el fondo de los chats aleatoriamente
+ * @author Roux
+ * @version 1.0.0
+ */
 
 (function() {
     // 1. LISTA DE IMÁGENES: Puedes añadir todos los links que quieras aquí
