@@ -1,0 +1,77 @@
+{
+    "name": "Airplane",
+    "description": "Tema inspirado en tonos cálidos naranjas y azul cielo vibrante",
+    "authors": [
+      {
+         "name": "Tu nombre aquí :)",
+         "id": "TU_ID_DE_DISCORD"
+      }
+    ],
+    "semanticColors": {
+        "CONTROL_BRAND_FOREGROUND": ["3d9fdb"],
+        "CONTROL_BRAND_FOREGROUND_NEW": ["3d9fdb"],
+        "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["3d9fdb"],
+        "TEXT_BRAND": ["e89a4a"],
+        "EXPRESSION_PICKER_BG": ["1a1612"],
+        "ANDROID_RIPPLE": ["3d9fdb"],
+        "BACKGROUND_ACCENT": ["e89a4a"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["2d241899"],
+        "BG_BACKDROP": ["1a161280"],
+        "BG_SURFACE_OVERLAY_TMP": ["242019"],
+        "BG_SURFACE_RAISED": ["242019"],
+        "CARD_PRIMARY_BG": ["242019"],
+        "BACKGROUND_PRIMARY": ["1a161280"],
+        "BACKGROUND_SECONDARY": ["24201999"],
+        "BORDER_FAINT": ["e89a4a40"],
+        "BORDER_STRONG": ["e89a4a"],
+        "BORDER_SUBTLE": ["3d9fdb40"],
+        "BACKGROUND_MODIFIER_ACCENT": ["e89a4a33"],
+        "BG_BASE_TERTIARY": ["2a241d"],
+        "BG_MOD_FAINT": ["3a332a"],
+        "BG_MOD_STRONG": ["e89a4a"],
+        "EMBED_BACKGROUND": ["2a241d99"],
+        "CHANNEL_ICON": ["f5a855"],
+        "DIVIDER_SUBTLE": ["3d9fdb"],
+        "HEADER_SECONDARY": ["e8ddd0"],
+        "INTERACTIVE_ACTIVE": ["3d9fdb"],
+        "INTERACTIVE_NORMAL": ["5eb3e8"],
+        "INTERACTIVE_MUTED": ["4a4035"],
+        "TEXT_NORMAL": ["f5f0e8"],
+        "TEXT_PRIMARY": ["f5f0e8"],
+        "TEXT_LOW_CONTRAST": ["e8ddd0"],
+        "TEXT_MUTED": ["e8ddd0"],
+        "MESSAGE_REACTED_BACKGROUND": ["e89a4a20"],
+        "TEXT_DANGER": ["c24d5e"],
+        "THREAD_CHANNEL_SPINE": ["3d9fdb"],
+        "MENTION_FOREGROUND": ["e89a4a"]
+    },
+    "rawColors": {
+        "BLUE_345": "5eb3e8",
+        "NEUTRAL_73": "1a1612",
+        "NEUTRAL_78": "3d9fdb",
+        "BRAND_260": "f5a855",
+        "BRAND_360": "e89a4a60",
+        "BRAND_500": "3d9fdb",
+        "BRAND_560": "e89a4a",
+        "NEUTRAL_76": "242019",
+        "PRIMARY_645": "1a1612",
+        "PRIMARY_500": "3d9fdb",
+        "PRIMARY_600": "1f1b16",
+        "PRIMARY_660": "2d2720",
+        "PRIMARY_700": "3a332a",
+        "PLUM_16": "1a1612",
+        "PLUM_17": "242019",
+        "PLUM_24": "4a4035"
+    },
+    "background": {
+        "blur": 0.0,
+        "url": "URL_DE_TU_IMAGEN_AIRPLANE",
+        "alpha": 0.5
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "iconpack": "md3",
+        "mentionLineColor": "#e89a4a"
+    }
+}
