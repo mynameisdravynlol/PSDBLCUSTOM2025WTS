@@ -1,0 +1,76 @@
+{
+    "name": "Black Wolf",
+    "description": "Tema monocromático oscuro con acento rojo sangre dramático",
+    "authors": [
+      {
+         "name": "Roux",
+         "id": "TU_ID_DE_DISCORD"
+      }
+    ],
+    "semanticColors": {
+        "CONTROL_BRAND_FOREGROUND": ["c41e1e"],
+        "CONTROL_BRAND_FOREGROUND_NEW": ["c41e1e"],
+        "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["c41e1e"],
+        "TEXT_BRAND": ["8a1515"],
+        "EXPRESSION_PICKER_BG": ["0a0a0a"],
+        "ANDROID_RIPPLE": ["c41e1e"],
+        "BACKGROUND_ACCENT": ["8a1515"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["1a0a0a99"],
+        "BG_BACKDROP": ["0a0a0a80"],
+        "BG_SURFACE_OVERLAY_TMP": ["151515"],
+        "BG_SURFACE_RAISED": ["151515"],
+        "CARD_PRIMARY_BG": ["151515"],
+        "BACKGROUND_PRIMARY": ["0a0a0a80"],
+        "BACKGROUND_SECONDARY": ["15151599"],
+        "BORDER_FAINT": ["c41e1e40"],
+        "BORDER_STRONG": ["c41e1e"],
+        "BORDER_SUBTLE": ["b8b8b840"],
+        "BACKGROUND_MODIFIER_ACCENT": ["c41e1e33"],
+        "BG_BASE_TERTIARY": ["1a1a1a"],
+        "BG_MOD_FAINT": ["2b2b2b"],
+        "BG_MOD_STRONG": ["c41e1e"],
+        "EMBED_BACKGROUND": ["1a1a1a99"],
+        "CHANNEL_ICON": ["d42a2a"],
+        "DIVIDER_SUBTLE": ["c41e1e"],
+        "HEADER_SECONDARY": ["e0e0e0"],
+        "INTERACTIVE_ACTIVE": ["c41e1e"],
+        "INTERACTIVE_NORMAL": ["b8b8b8"],
+        "INTERACTIVE_MUTED": ["3d3d3d"],
+        "TEXT_NORMAL": ["ffffff"],
+        "TEXT_PRIMARY": ["ffffff"],
+        "TEXT_LOW_CONTRAST": ["e0e0e0"],
+        "TEXT_MUTED": ["e0e0e0"],
+        "MESSAGE_REACTED_BACKGROUND": ["c41e1e20"],
+        "TEXT_DANGER": ["c41e1e"],
+        "THREAD_CHANNEL_SPINE": ["d4d4d4"],
+        "MENTION_FOREGROUND": ["c41e1e"]
+    },
+    "rawColors": {
+        "BLUE_345": "d4d4d4",
+        "NEUTRAL_73": "0a0a0a",
+        "NEUTRAL_78": "c41e1e",
+        "BRAND_260": "d42a2a",
+        "BRAND_360": "c41e1e60",
+        "BRAND_500": "c41e1e",
+        "BRAND_560": "8a1515",
+        "NEUTRAL_76": "151515",
+        "PRIMARY_645": "000000",
+        "PRIMARY_500": "c41e1e",
+        "PRIMARY_600": "121212",
+        "PRIMARY_660": "1f1f1f",
+        "PRIMARY_700": "2b2b2b",
+        "PLUM_16": "0a0a0a",
+        "PLUM_17": "151515",
+        "PLUM_24": "3d3d3d"
+    },
+    "background": {
+        "blur": 0.0,
+        "url": "URL_DE_TU_IMAGEN_BLACK_WOLF",
+        "alpha": 0.5
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "iconpack": "md3",
+        "mentionLineColor": "#c41e1e"
+    }
