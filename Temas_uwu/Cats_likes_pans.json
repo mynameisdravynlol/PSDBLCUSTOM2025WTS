@@ -1,0 +1,77 @@
+{
+    "name": "Cats Like Pans",
+    "description": "Tema neón vibrante tricolor (rosa, amarillo, cyan) sobre negro",
+    "authors": [
+      {
+         "name": "Roux",
+         "id": "TU_ID_DE_DISCORD"
+      }
+    ],
+    "semanticColors": {
+        "CONTROL_BRAND_FOREGROUND": ["e91e8c"],
+        "CONTROL_BRAND_FOREGROUND_NEW": ["e91e8c"],
+        "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["e91e8c"],
+        "TEXT_BRAND": ["f0d824"],
+        "EXPRESSION_PICKER_BG": ["0a0a0a"],
+        "ANDROID_RIPPLE": ["e91e8c"],
+        "BACKGROUND_ACCENT": ["f0d824"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["1a0a14D9"],
+        "BG_BACKDROP": ["0a0a0aCC"],
+        "BG_SURFACE_OVERLAY_TMP": ["1a1a1a"],
+        "BG_SURFACE_RAISED": ["1a1a1a"],
+        "CARD_PRIMARY_BG": ["1a1a1a"],
+        "BACKGROUND_PRIMARY": ["0a0a0aCC"],
+        "BACKGROUND_SECONDARY": ["1a1a1aD9"],
+        "BORDER_FAINT": ["e91e8c40"],
+        "BORDER_STRONG": ["e91e8c"],
+        "BORDER_SUBTLE": ["3dc9db40"],
+        "BACKGROUND_MODIFIER_ACCENT": ["e91e8c33"],
+        "BG_BASE_TERTIARY": ["1a1a1a"],
+        "BG_MOD_FAINT": ["2b1f2b"],
+        "BG_MOD_STRONG": ["e91e8c"],
+        "EMBED_BACKGROUND": ["1a1a1aD9"],
+        "CHANNEL_ICON": ["f5e03d"],
+        "DIVIDER_SUBTLE": ["e91e8c"],
+        "HEADER_SECONDARY": ["f0d824"],
+        "INTERACTIVE_ACTIVE": ["e91e8c"],
+        "INTERACTIVE_NORMAL": ["3dc9db"],
+        "INTERACTIVE_MUTED": ["3d2d3d"],
+        "TEXT_NORMAL": ["ffffff"],
+        "TEXT_PRIMARY": ["ffffff"],
+        "TEXT_LOW_CONTRAST": ["f0d824"],
+        "TEXT_MUTED": ["f0d824"],
+        "MESSAGE_REACTED_BACKGROUND": ["e91e8c33"],
+        "TEXT_DANGER": ["ff3da8"],
+        "THREAD_CHANNEL_SPINE": ["3dc9db"],
+        "MENTION_FOREGROUND": ["e91e8c"]
+    },
+    "rawColors": {
+        "BLUE_345": "3dc9db",
+        "NEUTRAL_73": "0a0a0a",
+        "NEUTRAL_78": "e91e8c",
+        "BRAND_260": "f5e03d",
+        "BRAND_360": "e91e8c60",
+        "BRAND_500": "e91e8c",
+        "BRAND_560": "f0d824",
+        "NEUTRAL_76": "1a1a1a",
+        "PRIMARY_645": "000000",
+        "PRIMARY_500": "e91e8c",
+        "PRIMARY_600": "120a12",
+        "PRIMARY_660": "1f141f",
+        "PRIMARY_700": "2b1f2b",
+        "PLUM_16": "0a0a0a",
+        "PLUM_17": "1a1a1a",
+        "PLUM_24": "3d2d3d"
+    },
+    "background": {
+        "blur": 0.0,
+        "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Imagenes/Cats%20like%20pans.jpg",
+        "alpha": 0.5
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "iconpack": "md3",
+        "mentionLineColor": "#e91e8c"
+    }
+}
