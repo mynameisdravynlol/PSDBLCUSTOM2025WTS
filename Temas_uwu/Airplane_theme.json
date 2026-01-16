@@ -3,7 +3,7 @@
     "description": "Tema inspirado en tonos cálidos naranjas y azul cielo vibrante",
     "authors": [
       {
-         "name": "Tu nombre aquí :)",
+         "name": "Roux",
          "id": "TU_ID_DE_DISCORD"
       }
     ],
@@ -65,7 +65,7 @@
     },
     "background": {
         "blur": 0.0,
-        "url": "URL_DE_TU_IMAGEN_AIRPLANE",
+        "url": "https://raw.githubusercontent.com/mynameisdravynlol/PSDBLCUSTOM2025WTS/main/Imagenes/Airplane.png",
         "alpha": 0.5
     },
     "spec": 2,
