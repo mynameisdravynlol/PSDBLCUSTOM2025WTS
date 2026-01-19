@@ -1,0 +1,76 @@
+"name": "Japan Idk",
+    "description": "Tema místico japonés con tonos rosa suave y azul grisáceo",
+    "authors": [
+      {
+         "name": "Roux",
+         "id": "TU_ID_DE_DISCORD"
+      }
+    ],
+    "semanticColors": {
+        "CONTROL_BRAND_FOREGROUND": ["d4788a"],
+        "CONTROL_BRAND_FOREGROUND_NEW": ["d4788a"],
+        "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["d4788a"],
+        "TEXT_BRAND": ["c24d5e"],
+        "EXPRESSION_PICKER_BG": ["1a1f2e"],
+        "ANDROID_RIPPLE": ["d4788a"],
+        "BACKGROUND_ACCENT": ["c24d5e"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["2e2433CC"],
+        "BG_BACKDROP": ["1a1f2eBF"],
+        "BG_SURFACE_OVERLAY_TMP": ["242938"],
+        "BG_SURFACE_RAISED": ["242938"],
+        "CARD_PRIMARY_BG": ["242938"],
+        "BACKGROUND_PRIMARY": ["1a1f2eBF"],
+        "BACKGROUND_SECONDARY": ["242938CC"],
+        "BORDER_FAINT": ["d4788a40"],
+        "BORDER_STRONG": ["d4788a"],
+        "BORDER_SUBTLE": ["7d9eb840"],
+        "BACKGROUND_MODIFIER_ACCENT": ["d4788a33"],
+        "BG_BASE_TERTIARY": ["242938"],
+        "BG_MOD_FAINT": ["363a47"],
+        "BG_MOD_STRONG": ["d4788a"],
+        "EMBED_BACKGROUND": ["242938D9"],
+        "CHANNEL_ICON": ["e68a9a"],
+        "DIVIDER_SUBTLE": ["d4788a"],
+        "HEADER_SECONDARY": ["e8dde5"],
+        "INTERACTIVE_ACTIVE": ["d4788a"],
+        "INTERACTIVE_NORMAL": ["7d9eb8"],
+        "INTERACTIVE_MUTED": ["4d5261"],
+        "TEXT_NORMAL": ["f5f2f7"],
+        "TEXT_PRIMARY": ["f5f2f7"],
+        "TEXT_LOW_CONTRAST": ["e8dde5"],
+        "TEXT_MUTED": ["e8dde5"],
+        "MESSAGE_REACTED_BACKGROUND": ["d4788a33"],
+        "TEXT_DANGER": ["f09aad"],
+        "THREAD_CHANNEL_SPINE": ["99b5d1"],
+        "MENTION_FOREGROUND": ["d4788a"]
+    },
+    "rawColors": {
+        "BLUE_345": "7d9eb8",
+        "NEUTRAL_73": "1a1f2e",
+        "NEUTRAL_78": "d4788a",
+        "BRAND_260": "e68a9a",
+        "BRAND_360": "d4788a60",
+        "BRAND_500": "d4788a",
+        "BRAND_560": "c24d5e",
+        "NEUTRAL_76": "242938",
+        "PRIMARY_645": "0f1219",
+        "PRIMARY_500": "d4788a",
+        "PRIMARY_600": "171b24",
+        "PRIMARY_660": "262a35",
+        "PRIMARY_700": "363a47",
+        "PLUM_16": "121519",
+        "PLUM_17": "242938",
+        "PLUM_24": "4d5261"
+    },
+    "background": {
+        "blur": 0.0,
+        "url": "URL_DE_TU_IMAGEN_JAPAN_IDK",
+        "alpha": 0.55
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "iconpack": "md3",
+        "mentionLineColor": "#d4788a"
+    }
+}
